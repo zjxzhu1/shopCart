@@ -330,6 +330,8 @@ input[type="text"], textarea {
     padding: .5em 20px;
     border: 1px solid #bbb;
     background: #white;
+    width:60px;
+    text-align: center;
 }
 
 .up-down-btn {
